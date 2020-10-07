@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),Atom_L)
+ifeq ($(TARGET_DEVICE),RMX1831)
 
 endif
